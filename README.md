@@ -24,5 +24,5 @@ Why was it not a plane
 A linear locus, where y = 0
 Or can you make it one and become a hero.
 Be in music, politics, school what you need is a beer.
-Or you know, you can just click [here](https://phuyalgaurav.github.io/birdy)```
+Or you know, you can just click ```[here](https://phuyalgaurav.github.io/birdy)
 
