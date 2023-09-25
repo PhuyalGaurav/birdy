@@ -6,7 +6,7 @@ Birdy?? **Birdy bird got stuck in pile of pipes OH NO!**
 <h3>And he claps
 <br>
 God knows his nest<br>
-Ais childern need rest<br>
+His childern need rest<br>
 <br>
 O great traveler<br>
 Birdy got a antena<br>
